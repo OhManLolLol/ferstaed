@@ -35,7 +35,7 @@ return finalstring;
 var con = mysql.createConnection({
 	host: "localhost",
 	user: "OhManLolLol",
-	password: "121345werty",
+	password: "procces.env.SQL_PASSCODE",
 	database: "FIRSTDATABASE"
 });
 
